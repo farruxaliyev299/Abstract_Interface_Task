@@ -1,0 +1,14 @@
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.exe
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.deps.json
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.runtimeconfig.json
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.runtimeconfig.dev.json
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.dll
+D:\C#\BookMenu\BookMenu\bin\Debug\netcoreapp3.1\BookMenu.pdb
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.csproj.AssemblyReference.cache
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.AssemblyInfoInputs.cache
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.AssemblyInfo.cs
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.csproj.CoreCompileInputs.cache
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.dll
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.pdb
+D:\C#\BookMenu\BookMenu\obj\Debug\netcoreapp3.1\BookMenu.genruntimeconfig.cache
